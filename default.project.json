@@ -1,0 +1,27 @@
+{
+  "name": "HorrorGame",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+  
+      "GameFiles": {
+        "$className": "Folder",
+        "$path": "src/ServerScriptService"
+      }
+    },
+    
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+  
+      "GameFiles": {
+        "$className": "Folder",
+        "$path": "src/ReplicatedStorage"
+      }
+    }
+
+
+
+  }
+}
